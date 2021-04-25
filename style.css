@@ -1,0 +1,11 @@
+body{
+    font-size: 40px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#watchframe{
+    position:absolute;
+    height: 650px;
+    width: 600px;
+}
